@@ -10,4 +10,10 @@
         android:layout_height="match_parent"
         android:id="@+id/slider_img"/>
 
+    <ImageView
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/slider_img1"/>
+
 </LinearLayout>
