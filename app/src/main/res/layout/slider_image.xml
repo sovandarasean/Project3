@@ -18,4 +18,16 @@
         android:layout_marginTop="100dp"
         tools:ignore="ContentDescription" />
 
+    <ImageView
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/slider_img1"/>
+
+    <ImageView
+        android:layout_marginTop="170dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/slider_img2"/>
+
 </LinearLayout>
