@@ -34,7 +34,7 @@
             android:fontFamily="monospace"
             android:text="@string/popular_on_netflix"
             android:textStyle="bold"
-            android:textColor="#fff"
+            android:textColor="#701E1E"
             android:layout_marginTop="20dp"/>
 
         <androidx.recyclerview.widget.RecyclerView
@@ -51,7 +51,7 @@
             android:fontFamily="monospace"
             android:text="Trending Now"
             android:textStyle="bold"
-            android:textColor="#fff"
+            android:textColor="#1E88E5"
             android:layout_marginTop="20dp"/>
 
         <androidx.recyclerview.widget.RecyclerView
