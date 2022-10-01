@@ -45,11 +45,10 @@
 
         <TextView
             android:id="@+id/txt_trending"
-            android:layout_below="@+id/RecView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="monospace"
-            android:text="Trending Now"
+            android:text="@string/trending_now"
             android:textStyle="bold"
             android:textColor="#1E88E5"
             android:layout_marginTop="20dp"/>
@@ -62,13 +61,12 @@
 
         <TextView
             android:id="@+id/txt_watchAgain"
-            android:layout_below="@+id/RecView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="monospace"
-            android:text="Watch it Again"
+            android:text="@string/watch_it_again"
             android:textStyle="bold"
-            android:textColor="#fff"
+            android:textColor="#E86F6F"
             android:layout_marginTop="20dp"/>
 
         <androidx.recyclerview.widget.RecyclerView
